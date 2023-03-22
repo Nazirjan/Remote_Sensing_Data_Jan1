@@ -1,3 +1,4 @@
 1. https://earthexplorer.usgs.gov/
 2. https://portal.kpminerals.gov.pk/Portal/MapPage.aspx?PageID=5d4bfcf9-1fb6-45a8-8fac-3ef929410de1
 The intended Remote Sensing (RS) Granule was downloaded for intended study area through link 1 ( https://earthexplorer.usgs.gov/) and the polygons were drawn through Geo Survey Application after initial verification surveys and reconfirmation of survey's data through link 2 ( https://portal.kpminerals.gov.pk/Portal/MapPage.aspx?PageID=5d4bfcf9-1fb6-45a8-8fac-3ef929410de1) 
+Polygons Drawn for training the models can be uploaded on reasonable request by corresponding author.
